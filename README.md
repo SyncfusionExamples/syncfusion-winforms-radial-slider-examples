@@ -1,6 +1,6 @@
 # RadialSlider control samples
 
-This repository contains the samples that demonstrate the functionalities of RadialSlider.
+The sample demonstrate how to format the text of RadialSlider.
 
 <table>
  <tr>
