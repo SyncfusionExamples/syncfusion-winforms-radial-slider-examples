@@ -1,9 +1,4 @@
 # RadialSlider control samples
+You can customize the text format for specific or all sliders by handling the [DrawText](https://help.syncfusion.com/cr/windowsforms/Syncfusion.Windows.Forms.Tools.RadialSlider.html) event. You can change the content, foreground and font of the slider intervals, selected slider or selected value by using the [DrawTextEventArgs.Text](https://help.syncfusion.com/cr/windowsforms/Syncfusion.Windows.Forms.Tools.RadialSlider.DrawTextEventArgs.html#Syncfusion_Windows_Forms_Tools_RadialSlider_DrawTextEventArgs_Text), [DrawTextEventArgs.ForeColor](https://help.syncfusion.com/cr/windowsforms/Syncfusion.Windows.Forms.Tools.RadialSlider.DrawTextEventArgs.html#Syncfusion_Windows_Forms_Tools_RadialSlider_DrawTextEventArgs_ForeColor) and DrawTextEventArgs.Font properties. You can differentiate the slider intervals, selected slider and selected value by using the [DrawTextEventArgs.TextType] (https://help.syncfusion.com/cr/windowsforms/Syncfusion.Windows.Forms.Tools.RadialSlider.DrawTextEventArgs.html#Syncfusion_Windows_Forms_Tools_RadialSlider_DrawTextEventArgs_TextType) enum property.
 
-The sample demonstrate how to format the text of RadialSlider.
-
-<table>
- <tr>
-  <td><a href="Samples/Text_Formatting">Text Formatting</a></td>
- </tr>
-</table>
+![RadialSlider TextFormatting](Samples/Text_Formatting/Image/RadialSlider%20TextFormatting.png)
