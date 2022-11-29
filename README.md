@@ -3,7 +3,7 @@ You can customize the text format for specific or all sliders by handling the [D
 
 # C#
 
-    private void RadialSlider1_DrawText(object sender, RadialSlider.DrawTextEventArgs e)
+     private void RadialSlider1_DrawText(object sender, RadialSlider.DrawTextEventArgs e)
         {
             int Value = int.Parse(e.Text);
             e.Text += "°C";
